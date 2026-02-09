@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Core PHP Interview Project</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5">
+<div class="card shadow-lg">
+<div class="card-header bg-primary text-white">
+<h3>Core PHP Interview Assignment</h3>
+</div>
+
+<div class="card-body text-center">
+
+<h4>Welcome 👋</h4>
+<p>This project demonstrates Core PHP CRUD and External API integration.</p>
+
+<a href="users/index.php" class="btn btn-success m-2">Manage Users</a>
+<a href="products.php" class="btn btn-warning m-2">View Products</a>
+
+<hr>
+<p class="text-muted">Developed by Mittal Prajapati</p>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>
